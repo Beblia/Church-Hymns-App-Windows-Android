@@ -10,22 +10,22 @@ https://www.beblia.com
 <br/>
 Windows 10 Download Link:
 <br/>
-http://51.91.170.33/W10/Beblia/Hymns/
+https://servervideos.hopto.org/W10/Beblia/Hymns/
 <br/>
 <br/>
 Android Download Link:
 <br/>
-http://51.91.170.33/Android/Beblia/hymns.hymns.apk
+https://servervideos.hopto.org/Android/Beblia/hymns.hymns.apk
 <br/>
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/Hymns/1.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/Hymns/1.png" />
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/Hymns/2.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/Hymns/2.png" />
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/Hymns/3.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/Hymns/3.png" />
